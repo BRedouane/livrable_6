@@ -1,7 +1,12 @@
 
 
 /* index.html (accueil)*/
-
+.black{
+    background-color: black;
+}
+.blanc{
+    background-color: white;
+}
 .button_index {
 text-align: center;
 display: inline-block;
